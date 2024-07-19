@@ -99,9 +99,9 @@ export default {
           "status": "start"
         },
         {
-          "slug": "002",
-          "name": "The Drop",
-          "status": "start"
+        //  "slug": "002",
+        //  "name": "The Drop",
+        //  "status": "start"
         },
       ],
       "pilots": [
