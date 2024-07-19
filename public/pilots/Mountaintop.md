@@ -1,22 +1,9 @@
-Born to a mechanic and NHP technician on a tertiary colony world of the Karrakis Trade Baronies known as Ravin: Vier was orphaned at age 13 alongside their then-toddler brother Craig. Officials declared it was due to complications related to an high class NHP cascade, as both their parents were researching the technology secretly against Union's charter, but Vier has only vague memories of the details after Union officials assumedly effected their memory of the incident and related details.
-Living between foster homes and the streets of an established colony city on Ravin, they took low income service jobs before eventually being mentored under a team of mech mechanics who travel with pilots on expeditions. Enamored by pilots but attached to their brother's daily needs, they took every chance possible to learn from all the mercenary Pilots: stories about the good, the bad, and the strange. This was also where Vier had their first contact with higher class NHPs since childhood, especially when working on the extremely suspicious HORUS frames.
-
-When Vier was 20 years old their brother, now 10, caught a fatal logic disease. Vier took out an insane loan to pay for treatment, and he luckily pulled through. Albeit with a new noose around their collective neck: debt collectors. Today, after 6 years with that debt only piling higher, and while now their brother is old enough to also be helping with it, they decided after years of doing everything for their brother, it was their time to risk it all instead of living under pure responsibility. Time to become a pilot and enjoy life.
+Josh Batrich was once a security officer for ISP-N's anti piracy patrols, he took the job thinking he'd be mostly relaxing through core world space with the occasional rag tag group of pirates to scare off. What actually happened was on his first assignment out of training the trade convoy he was a part of was attacked and boarded by a group of pirates just hiding behind a local asteroid field. Josh panicked at the sight of pirates using lancers to board his ship’s hangar bay and hid in the engineering ducts. When the smoke cleared and security managed to retake the ship and repel the pirates, Josh was found, reprimanded and dismissed from ISP-N with little else but the clothes on his back. Josh still wanted to explore the galaxy and the images of those lancers diving from exploding ships through vacuum and into the hangar bay couldnt leave his mind. The very next day Josh applied for a Lancer licence at his local GMS frame printer and made there was as much gun and armour between him and the enemy as possible.
 
 ## Random Facts:
 
-- Apprehensions about NHP exposure...
-
-- ...but is actually slowly nurturing a low-class NHP cloned from a mech's internal systems, in order to understand them, since they are generally unavoidable.
-
-- Loves their brother, but has some barely-subconscious hatred of the burden he put on them throughout their life.
-
-- Avoids damage to avoid repair work
-
-- Nonbinary
-
-- Dyes their hair green with chemicals that are definitely not meant for that
-
-- Only owns 2 sets of casual wear
-
-- Will steal anything halfway worth stealing if they think they can get away with it
+- Josh's favourite frame growing up was the blackbeard
+  
+- Josh came up with the mountaintop after thinking the name everest was funny
+  
+- Josh has set up a recording mode in his mech which he plans to sell over the dark Omni Net pilot bio
