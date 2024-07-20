@@ -96,6 +96,11 @@ export default {
         {
           "slug": "001",
           "name": "Security Duty",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "The Drop",
           "status": "start"
         },
       ],
