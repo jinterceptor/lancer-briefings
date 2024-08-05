@@ -145,6 +145,14 @@ export default {
           "frame": "Everest",
           "mech": "Shellback"
         },
+        {
+          "callsign": "Strongback",
+          "alias": 'Sleve McDichael',
+          "code": "a9cde823-bd9f-4a6d-8521-fbf89a7f902b///NDL-C-DEEP-STATION//b4e79315-2c64-4b27-98af-7d3bc49c65e1",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "Work Ethic In Action"
+        },
       ],
       "header": {
         "planet": "Cressidium",
