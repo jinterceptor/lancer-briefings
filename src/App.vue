@@ -94,12 +94,12 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "000",
           "name": "Security Duty",
           "status": "success"
         },
         {
-          "slug": "002",
+          "slug": "001",
           "name": "The Drop",
           "status": "success"
         },
