@@ -2,7 +2,7 @@
 ## BIRTHPLACE: Emucarro Secundus (Diasporan)
 ## FAMILIAL RELATIONS: Mother - Father - Brother - Brother - Sister - Sister
 ## UNION CHARGES: [DATA EXPUNGED] - [DATA EXPUNGED]
-## HA CHARGES: [DATA EXPUNGED]r - [DATA EXPUNGED] - Assault -[DATA EXPUNGED] - Inciting Violence - Threatening [DATA EXPUNGED] - Association with [DATA EXPUNGED] - [DATA EXPUNGED] - Destruction of [DATA EXPUNGED]
+## HA CHARGES: [DATA EXPUNGED] - [DATA EXPUNGED] - Assault -[DATA EXPUNGED] - Inciting Violence - Threatening [DATA EXPUNGED] - Association with [DATA EXPUNGED] - [DATA EXPUNGED] - Destruction of [DATA EXPUNGED]
 
 Born on Emucarro Secundus, Caelan Meler was raised in a small family unit consisting of his mother, father, two brothers and two sisters. Life was simple for them, they lived in one of the larger settlements in the region, Termina Canaan.
 The life blood of the settlement flowed as the valuable minerals and resources that have been mined there for generations, the Meler family was one of these generational mining families.
