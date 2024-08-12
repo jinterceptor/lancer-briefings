@@ -109,12 +109,12 @@ export default {
           "mech": "Great Catastrophe"
         },
         {
-          "callsign": "Cleric",
-          "alias": "Shi Qi Ok Bun Jo Johanna Longobardi Lupa Michiaki Shattles VI",
+          "callsign": "Screw Loose",
+          "alias": "Caelan Meler",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Joan of Arc"
+          "frame": "Everest",
+          "mech": "Act of Mercy"
         },
         {
           "callsign": "Mountaintop",
