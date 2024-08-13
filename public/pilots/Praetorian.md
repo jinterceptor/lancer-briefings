@@ -1,1 +1,11 @@
-## DOSSIER NOT FOUND.
+Once, Praetorian stood as a bastion of honour and duty, a member of the royal guard for House Asterion, a noble family on the fringe of the outer galaxy. The planet Asterion was a remote yet strategic outpost, rich in resources and steeped in ancient traditions. The royal family was well-respected, and the Praetorians, their elite guard, were known throughout the sector for their loyalty and combat prowess.
+
+Praetorian, known then by his given name, Leto, was the youngest member of this prestigious guard. Trained from a young age, he excelled in martial disciplines and was entrusted with the defence of the noble family’s most precious assets. His unwavering loyalty earned him the respect of his peers and the noble family he served.
+
+But that all changed when Asterion was attacked. A ruthless and powerful faction, seeking to expand their dominion, launched a surprise assault on the planet. The skies darkened with the arrival of enemy ships, and the ground quaked as the first bombs fell. The royal family, their guard, and the planet's defenders fought valiantly, but they were outmatched. The enemy overwhelmed them with superior numbers and advanced technology.
+
+In the final hours of the siege, Leto and his fellow Praetorians made their last stand in the royal palace. Despite their skill and determination, the palace fell, and the noble family was slaughtered. Leto was gravely wounded but managed to escape amidst the chaos. He watched from a distance as the planet burned, the screams of his fallen comrades echoing in his ears.
+
+Now, with no home to return to and a heart heavy with grief and guilt, Leto has taken on the name "Praetorian" in honour of his fallen brothers and sisters. He wanders the galaxy as a mercenary, offering his skills to those who can pay, but his true goal remains finding those responsible for Asterion's destruction. He lives by the code of the Praetorians, upholding their values of honour and loyalty, even as he works in the shadows of the galaxy's underbelly.
+
+Praetorian's armour, scarred and battle-worn, bears the insignia of House Asterion—a constant reminder of the home he lost. His skills are unmatched, but beneath the stoic exterior lies a man haunted by the past, driven by a need for vengeance and the hope that, one day, he might find a new purpose beyond the battlefield.
