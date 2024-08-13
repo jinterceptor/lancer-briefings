@@ -129,7 +129,7 @@ export default {
           "alias": "Jenson Hawkins",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
-          "frame": "Chomolungma",
+          "frame": "Everest",
           "mech": "Basilisk"
         },
       ],
