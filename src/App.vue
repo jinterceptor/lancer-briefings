@@ -98,6 +98,11 @@ export default {
           "name": "Security Duty",
           "status": "success"
         },
+        {
+          "slug": "001",
+          "name": "THe Drop",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
