@@ -166,8 +166,8 @@ export default {
         "gate": "Corvus Prime",
         "ring": "Outer Constellation",
         "headerTitle": "GENERAL MASSIVE SYSTEMS",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
+        "headerSubtitle": "209817th Battalion",
+        "subheaderTitle": "Marine Security",
         "subheaderSubtitle": "Scythe Company",
       },
       "options":{
