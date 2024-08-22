@@ -168,7 +168,7 @@ export default {
         "headerTitle": "GENERAL MASSIVE SYSTEMS",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Scythe Company",
       },
       "options":{
         "eventsMarkdownPerMission": true
