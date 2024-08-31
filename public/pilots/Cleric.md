@@ -1,1 +1,1 @@
-## DOSSIER NOT FOUND
+Coming from a more well off family, the jobs of middle management on a boring cityscape planet was facing cleric, a fascination with engineering and weapons design is what took cleric though in his later years, thus going against the full will of his family he joined an engineering company that specialised in ship design and when that was looking as the same fate as middle management decided to join the ranks of lancers.
