@@ -90,7 +90,7 @@ export default {
   data() {
     return {
       "mission_slug": "002",
-      "current_md": "start",
+      "current_md": "success",
       "events": "",
       "missions": [
         {
@@ -106,7 +106,7 @@ export default {
         {
           "slug": "002",
           "name": "Daybreak",
-          "status": "Start"
+          "status": "success"
         },
       ],
       "pilots": [
