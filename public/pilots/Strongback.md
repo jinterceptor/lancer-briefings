@@ -14,19 +14,22 @@ If the 'verse wanted to drag him into the fire, so be it. He'd fire right back, 
 # Unit Assignment: Scythe Company
 
 ## RECONSTITUTION REPORT
+
 # Date of Incident: 09/05/2024
 # Location: Battle of Nov Elysia, Operation Solstice Rain
 # Nature of Death: Pilot Strongback (Sleve McDichael) was caught in a catastrophic detonation caused by the enemy mech of Sorvan. Strongback’s body was vaporized in the ensuing blast.
 
 ## RECONSTITUTION DETAILS
+
 # Cloning Date: 09/07/2024
 # Cloning ID: CR-993-5437
 # Reconstitution Facility: Union NHP Advanced Cloning, Sector 7
 
-# NOTABLE SIDE EFFECTS:
-## Cybernetic Replacement: Due to the total vaporization of Strongback’s body except for the head and torso, the cloning process was only able to generate the upper half of his body. All limbs have been replaced with advanced cybernetic prosthetics. These prosthetics are top-of-the-line, allowing for seamless integration with remaining organic tissues, although they require routine maintenance and recalibration.
+## NOTABLE SIDE EFFECTS:
+
+# Cybernetic Replacement: Due to the total vaporization of Strongback’s body except for the head and torso, the cloning process was only able to generate the upper half of his body. All limbs have been replaced with advanced cybernetic prosthetics. These prosthetics are top-of-the-line, allowing for seamless integration with remaining organic tissues, although they require routine maintenance and recalibration.
 
 ## RECONSTITUTION STATUS: SUCCESSFUL (Partial organic reconstruction with significant cybernetic augmentation)
 
-Union Lead Specialist: Dr. Samuel Gredith
-Union Neuropsych Division Officer: Dr. Ella Kanis
+# Union Lead Specialist: Dr. Samuel Gredith
+# Union Neuropsych Division Officer: Dr. Ella Kanis
