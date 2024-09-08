@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
-      "current_md": "success",
+      "mission_slug": "003",
+      "current_md": "In Progress",
       "events": "",
       "missions": [
         {
@@ -107,6 +107,11 @@ export default {
           "slug": "002",
           "name": "Daybreak",
           "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "A Day Of Firsts",
+          "status": "In Progress"
         },
       ],
       "pilots": [
