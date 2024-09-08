@@ -114,36 +114,36 @@ export default {
           "callsign": "Brimstone",
           "alias": "Guang Fu Gathright",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "A Thousand Bitter Tears"
+          "corpro": "/ERR_HORUS",
+          "frame": "Lich",
+          "mech": "Messiah"
         },
         {
           "callsign": "Cleric",
           "alias": "Shi Qi Ok Bun Jo Johanna Longobardi Lupa Michiaki Shattles VI",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The View From Nowhere"
+          "corpro": "SSC",
+          "frame": "Monarch",
+          "mech": "Unknown"
         },
         {
           "callsign": "Mountaintop",
           "alias": "Josh Batrich",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Lockdown"
+          "corpro": "IPS-N",
+          "frame": "Drake",
+          "mech": "Defiant Onslaught"
         },
         {
           "callsign": "Junkie",
           "alias": "Barsby Samson",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "The Other Side"
+          "corpro": "IPS-N",
+          "frame": "Blackbeard",
+          "mech": "A Simple Wish"
         },
         {
-          "callsign": "Snipershell",
+          "callsign": "Ironshell",
           "alias": 'Matthäus Hetzenauer',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
@@ -154,20 +154,20 @@ export default {
           "callsign": "Strongback",
           "alias": 'Sleve McDichael',
           "code": "a9cde823-bd9f-4a6d-8521-fbf89a7f902b///NDL-C-DEEP-STATION//b4e79315-2c64-4b27-98af-7d3bc49c65e1",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Work Ethic In Action"
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
+          "mech": "First In, Last Out"
         },
       ],
       "header": {
         "planet": "Cressidium",
         "year": "5014u",
         "system": "Corvus",
-        "gate": "Corvus Prime",
-        "ring": "Outer Constellation",
+        "gate": "Cascade",
+        "ring": "Cascade Line",
         "headerTitle": "GENERAL MASSIVE SYSTEMS",
-        "headerSubtitle": "209817th Battalion",
-        "subheaderTitle": "Marine Security",
+        "headerSubtitle": "2817th Battalion",
+        "subheaderTitle": "Task Force Indigo",
         "subheaderSubtitle": "Scythe Company",
       },
       "options":{
