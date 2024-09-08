@@ -113,7 +113,7 @@ export default {
         {
           "callsign": "Brimstone",
           "alias": "Guang Fu Gathright",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "SN-0010-EX-7892",
           "corpro": "/ERR_HORUS",
           "frame": "Lich",
           "mech": "Messiah"
@@ -121,7 +121,7 @@ export default {
         {
           "callsign": "Cleric",
           "alias": "Shi Qi Ok Bun Jo Johanna Longobardi Lupa Michiaki Shattles VI",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "SN-0098-ZR-5630",
           "corpro": "SSC",
           "frame": "Monarch",
           "mech": "Unknown"
@@ -129,7 +129,7 @@ export default {
         {
           "callsign": "Mountaintop",
           "alias": "Josh Batrich",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "SN-0034-KL-8763",
           "corpro": "IPS-N",
           "frame": "Drake",
           "mech": "Defiant Onslaught"
@@ -137,7 +137,7 @@ export default {
         {
           "callsign": "Junkie",
           "alias": "Barsby Samson",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "SN-0057-LX-3427",
           "corpro": "IPS-N",
           "frame": "Blackbeard",
           "mech": "A Simple Wish"
@@ -145,7 +145,7 @@ export default {
         {
           "callsign": "Ironshell",
           "alias": 'Matthäus Hetzenauer',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "SN-0021-JP-4378",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Shellback"
@@ -153,7 +153,7 @@ export default {
         {
           "callsign": "Strongback",
           "alias": 'Sleve McDichael',
-          "code": "a9cde823-bd9f-4a6d-8521-fbf89a7f902b///NDL-C-DEEP-STATION//b4e79315-2c64-4b27-98af-7d3bc49c65e1",
+          "code": "SN-0045-XC-1289",
           "corpro": "IPS-N",
           "frame": "Tortuga",
           "mech": "First In, Last Out"
