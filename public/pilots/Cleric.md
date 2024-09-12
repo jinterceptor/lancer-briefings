@@ -1,3 +1,5 @@
+## DOSSIER ENTRY: Shi Qi Ok Bun Jo Johanna Longobardi Lupa Michiaki Shattles VI AKA "Cleric"
+
 Shi Qi, callsign Cleric, was born into a well-off family on a sprawling cityscape planet where a future in middle management seemed inevitable. Despite the expectations placed on him, Cleric's passion for engineering and weapons design took hold in his later years. Fascinated by the intricacies of machinery and the art of crafting powerful weapons, he defied his family's wishes and joined an engineering company specializing in ship design.
 
 However, as the job began to resemble the monotonous fate he had sought to avoid, Cleric made a bold decision. Rather than settling into a life of routine, he chose to become a Lancer, seeking the thrill of combat and the opportunity to apply his engineering skills in the heat of battle. Now, as a Lancer, Cleric combines his technical expertise with a deep-seated desire to prove himself, designing and modifying his mech with a precision that reflects his engineering background.
