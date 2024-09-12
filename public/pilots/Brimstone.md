@@ -32,3 +32,40 @@ Brimstone’s steady, disciplined approach to combat makes him a valuable member
 
 # Recommendation
 Brimstone should continue to be assigned to operations requiring calculated decision-making and deliberate action. His ability to assess risks and avoid unnecessary danger makes him ideal for missions where tactical planning is critical. While his cautious nature may not always align with the more impulsive pilots in Scythe Company, his disciplined approach offers a valuable balance to the team. He should be encouraged to further hone his mech combat skills, allowing his natural leadership abilities to shine through.
+
+---
+
+## UNION PILOT RECONSTITUTION REPORT
+
+**Pilot ID**: Guang Fu Gathright
+
+**Callsign**: Brimstone
+
+**Date of Death**: [REDACTED]
+
+**Cause of Death**: Catastrophic nuclear detonation caused by Strongback’s mech meltdown during [OPERATION FILE CORRUPT]. Pilot Gathright perished due to failure to escape his mech, resulting in instant death alongside Pilot Strongback.
+
+# Reconstitution Overview:
+[DATA CORRUPT]—Pilot Guang Fu Gathright was declared deceased following the catastrophic meltdown of Strongback's mech, which resulted in a nuclear blast. Despite extensive damage to all local infrastructure and loss of all biological remains, Union records indicate that Brimstone’s reconstitution process was initiated successfully. However, no verifiable genetic or cognitive backups exist in the Union archives, and no timestamp can confirm the exact initiation of the process.
+
+Brimstone's reconstituted body was restored with full memory up to the point of death, yet there are discrepancies in both his physical data and recorded history. All medical logs, mission details, and operational records have been corrupted or scrubbed from Union systems. However, all personnel and records now reflect that Brimstone’s reconstitution occurred without complication.
+
+Notably, video footage of the blast and its aftermath has been retroactively altered, showing Brimstone’s mech surviving the explosion, though such evidence contradicts first-hand accounts. Every record and witness aligns with the timeline in which Brimstone was reconstituted immediately afterward, but no physical or digital evidence confirms the process itself.
+
+# Side-Effects:
+Brimstone's clone displays no physical deformities, and no abnormalities were detected during his post-reconstitution medical evaluations. However, he has expressed vague confusion regarding the final moments of his death, particularly surrounding the nature of Strongback’s meltdown. These memory inconsistencies were dismissed during his initial debriefing.
+
+Medical personnel reported that Brimstone initially struggled to recall the sensation of dying, often referring to his death as if it occurred only seconds ago. However, over time, his memories seem to have "settled," with all post-reconstitution behavioral markers falling within expected parameters.
+
+The para-causal nature of this event has left an imprint on his mech, Messiah, which now exists within Union records as having always belonged to Brimstone, though such evidence did not previously exist. Union’s advanced AI monitoring systems have flagged these anomalies but have thus far failed to provide an explanation.
+
+# Psychological Report:
+Brimstone’s psychological profile post-reconstitution remains largely stable, with no significant deviations from his pre-death metrics. The only concerning element is his occasional complaint of "time feeling off," especially when discussing the moments leading up to the nuclear blast.
+
+He remains pragmatic, tactical, and precise in his decision-making, though moments of confusion or deja vu appear sporadically during downtime. These episodes do not affect combat performance and have been deemed low-risk by Union’s psychological review team. Any further investigation into his cognitive discrepancies has been classified.
+
+**Medical Officer in Charge**: [DATA EXPUNGED]
+
+**Approval Status**: Cleared for Active Duty
+
+## This report is to be archived under [CLASSIFIED] clearance, with all related records pertaining to Pilot Guang Fu Gathright’s reconstitution and the catastrophic meltdown of Strongback’s mech restricted from further review. Further investigation into para-causal anomalies surrounding this event is ongoing.
