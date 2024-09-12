@@ -35,28 +35,37 @@ Strongback should continue to be deployed in roles that require heavy lifting, d
 
 ---
 
-## RECONSTITUTION REPORT
+## UNION PILOT RECONSTITUTION REPORT
 
-**Date of Incident**: 09/05/2024
+**Pilot ID**: Sleve McDichael
 
-**Location**: Battle of Nov Elysia, Operation Solstice Rain
+**Callsign**: Strongback
 
-**Nature of Death**: Pilot Strongback (Sleve McDichael) was caught in a catastrophic detonation caused by the enemy mech of Sorvan. Strongback’s body was vaporized in the ensuing blast.
+**Date of Death**: [REDACTED]
 
-# RECONSTITUTION DETAILS
+**Cause of Death**: Catastrophic nuclear detonation during Operation: Solstice Rain. Pilot McDichael perished alongside Pilot Guang Fu Gathright (callsign: Brimstone) when Strongback’s mech suffered a catastrophic meltdown. McDichael chose to remain in the blast radius to aid his trapped comrade, resulting in mutual annihilation.
 
-**Cloning Date**: 09/07/2024
+# Reconstitution Overview:
+Following the confirmed deaths of Pilot McDichael and Pilot Gathright, reconstitution protocols were initiated. Genetic and cognitive backups for McDichael were retrieved from Union archives; however, due to the total vaporization of his body in the nuclear event, the cloning process presented significant challenges.
 
-**Cloning ID**: CR-993-5437
+Union reconstitution facilities were able to recover McDichael’s cognitive data without issue, but due to the severity of his physical obliteration, his body was only able to be reconstructed up to the torso. As a result, all four of Pilot McDichael’s limbs have been replaced with advanced cybernetics. These enhancements meet Union’s highest operational standards, but the sudden reliance on artificial limbs has led to some adjustment difficulties.
 
-**Reconstitution Facility**: Union NHP Advanced Cloning, Sector 7
+Interestingly, the event leading to McDichael’s death—along with the decision to remain within the blast radius—has been flagged as potentially para-causal in nature. Subtle inconsistencies and data corruption in mission logs, alongside pilot reports, have raised questions about the exact nature of the incident. However, there is no clear evidence, and Union records show all events proceeding as expected. McDichael himself retains only fragmented memories of the final moments with Brimstone.
 
-# NOTABLE SIDE EFFECTS:
+# Side-Effects:
+In addition to the cybernetic limbs, McDichael has reported a persistent, unshakeable feeling that “something is missing.” Despite the absence of physical impairments, he describes a sense of incompleteness or disconnection, particularly regarding his actions leading up to his death. He has not been able to fully articulate or quantify this feeling.
 
-**Cybernetic Replacement**: Due to the total vaporization of Strongback’s body except for the head and torso, the cloning process was only able to generate the upper half of his body. All limbs have been replaced with advanced cybernetic prosthetics. These prosthetics are top-of-the-line, allowing for seamless integration with remaining organic tissues, although they require routine maintenance and recalibration.
+His reconstituted body has fully integrated with the cybernetic prosthetics, which have enhanced his physical strength and durability in the field. Nonetheless, the sudden transition to a fully cybernetic limb system has led to minor motor control issues that have since been resolved through post-reconstitution therapy and adaptation training.
 
-# RECONSTITUTION STATUS: SUCCESSFUL (Partial organic reconstruction with significant cybernetic augmentation)
+# Psychological Report:
+Psychological evaluations show no significant cognitive degradation, though Pilot McDichael has shown mild signs of emotional distress connected to the incident. His decision to remain in the blast radius to aid Brimstone has led to some internal conflict—while he feels he acted honorably, there is a lingering sense of ambiguity around the event itself.
 
-**Union Lead Specialist**: Dr. Samuel Gredith
+Pilot McDichael has expressed concerns that his death may have been tied to something larger than a simple malfunction, though he is unable to explain this intuition. His performance in training exercises post-reconstitution remains unaffected, and despite these unresolved concerns, McDichael maintains high operational readiness.
 
-**Union Neuropsych Division Officer**: Dr. Ella Kanis
+It is recommended that the medical team continue to monitor for psychological effects related to his death and ongoing adjustment to cybernetic integration.
+
+**Medical Officer in Charge**: Dr. Elias Grant
+
+**Approval Status**: Cleared for Active Duty
+
+# This report is to be maintained in Pilot Sleve McDichael's personnel file for future reference, with a specific note on the para-causal nature of his death and the need for further observation regarding his psychological and cybernetic integration.
