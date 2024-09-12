@@ -151,9 +151,9 @@ export default {
           "callsign": "Ironshell",
           "alias": 'Matthäus Hetzenauer',
           "code": "SN-0021-JP-4378",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Shellback"
+          "corpro": "Harrison Armory",
+          "frame": "Barbarosa",
+          "mech": "Eisenhans"
         },
         {
           "callsign": "Strongback",
