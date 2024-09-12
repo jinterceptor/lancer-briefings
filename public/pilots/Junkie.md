@@ -32,3 +32,24 @@ Junkie is a wildcard, but one who thrives under pressure. His skills as a pilot 
 
 # Recommendation
 Barsby ‘Junkie’ Samson should continue to be deployed in combat scenarios that emphasize mobility, adaptability, and high-stakes engagements. His psychological profile suggests that prolonged periods of inactivity or assignments requiring rigid structure could lead to friction within the unit. Any missions requiring fast-strike tactics, covert insertion, or unconventional warfare are ideal for his skill set. However, given his history and temperament, Junkie should be closely monitored to ensure his actions remain in line with Union directives. His past involvement in piracy, while unresolved, makes him a liability if not properly managed.
+
+---
+
+## OPERATION: SOLSTICE RAIN DEBRIEFING
+
+**Pilot**: Barsby Samson (Junkie)
+
+**Service Number**: SN-0021-JP-4378
+
+**Status**: Active
+
+# Summary of Actions:
+Junkie lived up to his reputation as a high-risk, high-reward pilot during the mission. Despite a brash and reckless attitude, his combat skills proved vital in several engagements. His desire for adrenaline fueled his willingness to engage enemy forces head-on, often drawing fire away from more strategic positions.
+
+# Notable Events:
+- Junkie’s aggressive tactics allowed him to disrupt enemy formations, creating openings for the team to secure objectives.
+- Displayed exceptional piloting under fire, avoiding several close calls due to sheer instinct and reaction speed.
+- Survived the final battle with Sorvan, one of the two remaining pilots left standing.
+
+# Performance Evaluation:
+Though Junkie’s tactics occasionally verge on reckless, his results speak for themselves. His ability to maintain composure under extreme stress and deliver precise strikes is a testament to his skills. However, his lack of regard for proper procedure could present long-term issues. His continued development of situational awareness through sim training is recommended.
