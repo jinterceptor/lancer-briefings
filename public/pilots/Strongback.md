@@ -1,10 +1,15 @@
 ## DOSSIER ENTRY: Sleve McDichael AKA "Strongback"
 
 **Name**: Sleve McDichael
+
 **Callsign**: Strongback
+
 **Service Number**: [CLASSIFIED]
+
 **Affiliation**: Scythe Company
+
 **Role**: Lancer Pilot
+
 **Status**: Active
 
 # Profile Overview
