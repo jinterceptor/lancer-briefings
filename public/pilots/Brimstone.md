@@ -35,6 +35,27 @@ Brimstone should continue to be assigned to operations requiring calculated deci
 
 ---
 
+## OPERATION: SOLSTICE RAIN DEBRIEFING
+
+**Pilot**: Guang Fu Gathright (Brimstone)
+
+**Service Number**: SN-0010-EX-7892
+
+**Status**: Deceased
+
+# Summary of Actions:
+During the final moments of Operation: Solstice Rain, Pilot Guang Fu Gathright, callsign "Brimstone," found himself trapped in his mech after sustaining heavy damage. When Strongback's mech went super-critical, Gathright was unable to eject and was fatally caught in the resulting nuclear meltdown. Gathright displayed a steady tactical awareness throughout the operation, maintaining a calculated and methodical approach to engagement. He consistently prioritized the safety and positioning of the team, demonstrating his strategic mindset.
+
+# Notable Events:
+- Gathright fought alongside Strongback in the final stand of the operation, showing tactical cohesion.
+- His calm under pressure was evident, though the chaos of battle led to his entrapment within his mech.
+- Brimstone’s death alongside Strongback has raised para-causal anomalies, and subsequent data suggests both pilots’ deaths involved non-linear temporal interactions. His current reconstitution remains in question due to abnormal reports.
+
+# Performance Evaluation:
+Brimstone’s combat performance was exemplary, prioritizing battlefield awareness and careful tactical execution. His demise, however, underscores the risk of maintaining position too long under hazardous circumstances. His potential reconstitution has been flagged for investigation, given strange temporal discrepancies in associated reports.
+
+---
+
 ## UNION PILOT RECONSTITUTION REPORT
 
 **Pilot ID**: Guang Fu Gathright
