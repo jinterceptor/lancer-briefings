@@ -35,55 +35,58 @@ Mountaintop should continue to be assigned to missions where a strong defensive 
 
 ---
 
-## OPERATION: SOLSTICE RAIN DEBRIEFING
+## Operation: Solstice Rain Debriefing
 
-**Pilot**: Matthäus Hetzenauer (Ironshell)
+**Pilot ID**: Josh Batrich
 
-**Service Number**: SN-0021-JP-4378
+**Callsign**: Mountaintop
+
+**Service Number**: [CLASSIFIED]
+
+**Affiliation**: Scythe Company
 
 **Status**: Reconstituted
 
-# Summary of Actions:
-Ironshell was an invaluable long-range support specialist during the mission, delivering devastating artillery strikes at key moments. His skills in indirect fire support helped the squad keep pressure on enemy forces, though his final moments were marked by an unpredictable engagement with Col. Sorvan.
+# Performance Summary:
+Mountaintop’s performance during the mission was characterized by adaptability and aggressive engagement with the enemy. Despite suffering severe injuries and the destruction of his hijacked Pyro mech, Mountaintop demonstrated exceptional bravery and combat prowess, dealing significant damage to Col. Sorvan’s forces during the final battle.
 
 # Notable Events:
-- Provided artillery support, suppressing enemy forces and securing key objectives.
-- Killed during Sorvan’s final act of self-erasure, a nuclear blast that eliminated both his and Sorvan’s mechs.
-- Reconstitution resulted in notable physical deformities, though Ironshell has remained mission-ready despite these changes.
 
-# Performance Evaluation:
-Ironshell’s expertise in artillery and indirect fire support makes him a critical asset. His performance during Operation: Solstice Rain was exemplary until his fatal encounter with Sorvan. Despite the physical changes resulting from his reconstitution, Ironshell remains highly effective.
+- Executed a daring maneuver to leap onto Col. Sorvan’s mech, using his suit’s IFF tag to direct allied artillery fire onto the enemy.
+- Survived multiple near-fatal encounters, including being severely injured by Sorvan’s Raptor Plasma Rifle and being crushed beneath Sorvan’s mech in the final moments of the battle.
+- Reconstituted following his death, now experiencing minor cognitive dissonance due to a persistent voice in his head (related to digital homunculus).
+- Overall Performance:
+- Mountaintop’s bold combat tactics and willingness to take extreme risks played a significant role in damaging enemy forces. His dedication and tenacity in the face of overwhelming odds are notable, though his combat recklessness could have been costly had it not been for his reconstitution.
 
 ---
 
 ## UNION PILOT RECONSTITUTION REPORT
 
-**Pilot ID**: Matthäus Hetzenauer
+**Pilot ID**: Josh Batrich
 
-**Callsign**: Ironshell
-
-**Service Number**: SN-0021-JP-4378
+**Callsign**: Mountaintop
 
 **Date of Death**: [REDACTED]
 
-**Cause of Death**: Incinerated in a nuclear blast triggered by Col. Sorvan during a slip-space self-erasure event in Operation Solstice Rain.
+**Cause of Death**: Fatal injuries sustained during Operation Solstice Rain after direct engagement with hostile Lancers.
 
 # Reconstitution Overview:
-After confirmation of death during Operation Solstice Rain, Pilot Matthäus Hetzenauer, callsign "Ironshell," was approved for reconstitution. Genetic and cognitive backups were retrieved from secure Union archives. His clone body was grown and successfully imprinted with his memories, knowledge, and combat skills, preserving his performance profile.
+Following the confirmation of death during Operation Solstice Rain, Union initiated the reconstitution process for Pilot Josh Batrich, utilizing preserved genetic and cognitive backups. The standard cloning procedures were followed, growing a new body and implanting his final cognitive upload to restore all pertinent memories, skills, and knowledge.
 
-However, due to the extreme nature of his death in a nuclear blast, several abnormalities were encountered during reconstitution. The process resulted in visible deformities, including clammy skin, and an irregular facial structure with one eye being noticeably larger than the other. These features clearly mark him as a vat-grown clone, though no functional impairments have been reported.
+Although the procedure was deemed successful, Mountaintop has repeatedly reported a persistent auditory disturbance—a voice in his head that he claims gives unsolicited advice and commentary during combat situations. Union medical officers have found no physical anomalies in the clone’s neural or cognitive systems, though the exact cause of these hallucinations remains undetermined.
 
 # Side-Effects:
+Beyond the auditory hallucinations, no significant physical defects have been identified in Pilot Batrich’s new body. Cognitive function remains sharp, and motor skills are unaffected. Union psychological evaluations have noted his growing frustration with the "voice," but he remains in control and displays no signs of instability.
 
-**Physical Abnormalities**: Ironshell’s facial deformities, notably the asymmetry of his eyes and clammy skin, are a direct result of the cloning process.
-
-**Psychological Impact**: No major cognitive impairments were detected, but Pilot Hetzenauer has expressed discomfort with his altered appearance. As a result, he now chooses to wear a helmet at all times during both combat and off-duty hours.
+The persistent voice has led Pilot Batrich to experience moderate anxiety during off-duty hours, though this has not yet impacted his combat performance. Union does not have any indication of foreign code or digital infection but will continue to monitor for irregularities in his behavioral patterns.
 
 # Psychological Report:
-Post-reconstitution psychological evaluations indicate that Pilot Hetzenauer remains mentally sound and fully mission-capable. There are no signs of trauma or psychological fragmentation from the reconstitution process itself. However, his self-image issues may have long-term psychological effects, which will be closely monitored.
+While Pilot Batrich's psychological evaluation shows no major degradation in cognitive function or combat readiness, the reports of auditory hallucinations have raised concerns among medical staff. Union’s team will continue to monitor Mountaintop for any escalation of these symptoms.
+
+It is worth noting that Mountaintop has developed coping mechanisms to handle the voice, which currently manifests only as mild interference during non-combat operations. His personality otherwise remains intact, with no evidence of lingering trauma beyond this quirk.
 
 **Medical Officer in Charge**: Dr. Elias Grant
 
-**Approval Status**: Cleared for Active Duty
+**Approval Status**: Cleared for Active Duty, with continued monitoring for auditory disturbances.
 
-# This report is to be maintained in Pilot Matthäus Hetzenauer’s personnel file for future reference concerning his reconstitution history and potential medical follow-ups.
+# This report is to be maintained in Pilot Josh Batrich's personnel file for future reference concerning his reconstitution history and any necessary medical follow-ups.
