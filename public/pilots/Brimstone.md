@@ -68,4 +68,4 @@ He remains pragmatic, tactical, and precise in his decision-making, though momen
 
 **Approval Status**: Cleared for Active Duty
 
-## This report is to be archived under [CLASSIFIED] clearance, with all related records pertaining to Pilot Guang Fu Gathright’s reconstitution and the catastrophic meltdown of Strongback’s mech restricted from further review. Further investigation into para-causal anomalies surrounding this event is ongoing.
+# This report is to be archived under [CLASSIFIED] clearance, with all related records pertaining to Pilot Guang Fu Gathright’s reconstitution and the catastrophic meltdown of Strongback’s mech restricted from further review. Further investigation into para-causal anomalies surrounding this event is ongoing.
