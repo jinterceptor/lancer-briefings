@@ -33,13 +33,17 @@ Strongback should continue to be deployed in roles that require heavy lifting, d
 ## RECONSTITUTION REPORT
 
 **Date of Incident**: 09/05/2024
+
 **Location**: Battle of Nov Elysia, Operation Solstice Rain
+
 **Nature of Death**: Pilot Strongback (Sleve McDichael) was caught in a catastrophic detonation caused by the enemy mech of Sorvan. Strongback’s body was vaporized in the ensuing blast.
 
 # RECONSTITUTION DETAILS
 
 **Cloning Date**: 09/07/2024
+
 **Cloning ID**: CR-993-5437
+
 **Reconstitution Facility**: Union NHP Advanced Cloning, Sector 7
 
 # NOTABLE SIDE EFFECTS:
@@ -49,4 +53,5 @@ Strongback should continue to be deployed in roles that require heavy lifting, d
 # RECONSTITUTION STATUS: SUCCESSFUL (Partial organic reconstruction with significant cybernetic augmentation)
 
 **Union Lead Specialist**: Dr. Samuel Gredith
+
 **Union Neuropsych Division Officer**: Dr. Ella Kanis
