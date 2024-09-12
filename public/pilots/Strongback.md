@@ -4,7 +4,7 @@
 
 **Callsign**: Strongback
 
-**Service Number**: [CLASSIFIED]
+**Service Number**: SN-0045-XC-1289
 
 **Affiliation**: Scythe Company
 
