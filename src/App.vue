@@ -129,7 +129,7 @@ export default {
           "code": "SN-0098-ZR-5630",
           "corpro": "SSC",
           "frame": "Monarch",
-          "mech": "Unknown"
+          "mech": "Sleepwalker"
         },
         {
           "callsign": "Mountaintop",
