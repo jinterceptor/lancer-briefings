@@ -1,10 +1,15 @@
 ## DOSSIER ENTRY: Barsby Samson AKA "Junkie"
 
 **Name**: Barsby Samson  
+
 **Callsign**: Junkie  
+
 **Service Number**: SN-0021-JP-4378 
+
 **Affiliation**: Scythe Company  
+
 **Role**: Lancer Pilot  
+
 **Status**: Active  
 
 # Profile Overview  
