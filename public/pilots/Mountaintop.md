@@ -32,3 +32,36 @@ Mountaintop is a solid, dependable pilot who excels in defensive and support rol
 
 # Recommendation
 Mountaintop should continue to be assigned to missions where a strong defensive presence is required. His ability to withstand pressure and his steady, composed nature make him a valuable asset in protracted engagements. Encouragement and opportunities to develop his leadership potential should be considered, as his calm demeanor could serve him well in command roles.
+
+---
+
+## UNION PILOT RECONSTITUTION REPORT
+
+**Pilot ID**: Josh Batrich
+
+**Callsign**: Mountaintop
+
+**Date of Death**: [REDACTED]
+
+**Cause of Death**: Fatal injuries sustained during Operation Solstice Rain after direct engagement with hostile Lancers.
+
+# Reconstitution Overview:
+Following the confirmation of death during Operation Solstice Rain, Union initiated the reconstitution process for Pilot Josh Batrich, utilizing preserved genetic and cognitive backups. The standard cloning procedures were followed, growing a new body and implanting his final cognitive upload to restore all pertinent memories, skills, and knowledge.
+
+Although the procedure was deemed successful, Mountaintop has repeatedly reported a persistent auditory disturbance—a voice in his head that he claims gives unsolicited advice and commentary during combat situations. Union medical officers have found no physical anomalies in the clone’s neural or cognitive systems, though the exact cause of these hallucinations remains undetermined.
+
+# Side-Effects:
+Beyond the auditory hallucinations, no significant physical defects have been identified in Pilot Batrich’s new body. Cognitive function remains sharp, and motor skills are unaffected. Union psychological evaluations have noted his growing frustration with the "voice," but he remains in control and displays no signs of instability.
+
+The persistent voice has led Pilot Batrich to experience moderate anxiety during off-duty hours, though this has not yet impacted his combat performance. Union does not have any indication of foreign code or digital infection but will continue to monitor for irregularities in his behavioral patterns.
+
+# Psychological Report:
+While Pilot Batrich's psychological evaluation shows no major degradation in cognitive function or combat readiness, the reports of auditory hallucinations have raised concerns among medical staff. Union’s team will continue to monitor Mountaintop for any escalation of these symptoms.
+
+It is worth noting that Mountaintop has developed coping mechanisms to handle the voice, which currently manifests only as mild interference during non-combat operations. His personality otherwise remains intact, with no evidence of lingering trauma beyond this quirk.
+
+**Medical Officer in Charge**: Dr. Elias Grant
+
+**Approval Status**: Cleared for Active Duty, with continued monitoring for auditory disturbances.
+
+# This report is to be maintained in Pilot Josh Batrich's personnel file for future reference concerning his reconstitution history and any necessary medical follow-ups.
