@@ -41,6 +41,27 @@ Maintain current status as a tactical asset. Monitor affiliations with external 
 
 ---
 
+## OPERATION: SOLSTICE RAIN DEBRIEFING
+
+**Pilot**: Josh Batrich (Mountaintop)
+
+**Service Number**: SN-0034-KL-8763
+
+**Status**: Reconstituted
+
+# Summary of Actions:
+Mountaintop showed resilience and adaptability under intense pressure. After his mech was destroyed, he fought on foot, eventually climbing onto Col. Sorvan’s mech and marking it for artillery strikes. His resourcefulness during this climactic encounter earned the squad a tactical advantage, even though it ultimately cost him his life.
+
+# Notable Events:
+- Engaged Col. Sorvan’s mech directly in hand-to-hand combat, marking the enemy for artillery fire.
+- Suffered critical injuries after being crushed beneath Sorvan’s mech, leading to his death and subsequent reconstitution.
+- Displays potential signs of cognitive difficulty due to the digital homunculus embedded in his clone body.
+
+# Performance Evaluation:
+Mountaintop’s bravery and willingness to take risks in combat were commendable. However, his decision to engage Sorvan directly may have contributed to his fatal outcome. His reconstitution has introduced psychological effects that warrant further observation, but his performance remains above standard expectations.
+
+---
+
 ## UNION PILOT RECONSTITUTION REPORT
 
 **Pilot ID**: Matthäus Hetzenauer
