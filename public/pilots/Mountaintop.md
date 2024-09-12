@@ -82,8 +82,8 @@ However, due to the extreme nature of his death in a nuclear blast, several abno
 # Psychological Report:
 Post-reconstitution psychological evaluations indicate that Pilot Hetzenauer remains mentally sound and fully mission-capable. There are no signs of trauma or psychological fragmentation from the reconstitution process itself. However, his self-image issues may have long-term psychological effects, which will be closely monitored.
 
-** Medical Officer in Charge**: Dr. Elias Grant
+**Medical Officer in Charge**: Dr. Elias Grant
 
-** Approval Status**: Cleared for Active Duty
+**Approval Status**: Cleared for Active Duty
 
 # This report is to be maintained in Pilot Matthäus Hetzenauer’s personnel file for future reference concerning his reconstitution history and potential medical follow-ups.
