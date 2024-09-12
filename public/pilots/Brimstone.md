@@ -43,7 +43,7 @@ Brimstone should continue to be assigned to operations requiring calculated deci
 
 **Date of Death**: [REDACTED]
 
-**Cause of Death**: Catastrophic nuclear detonation caused by Strongback’s mech meltdown during [OPERATION FILE CORRUPT]. Pilot Gathright perished due to failure to escape his mech, resulting in instant death alongside Pilot Strongback.
+**Cause of Death**: Catastrophic nuclear detonation caused by Strongback’s mech meltdown during Operation: Solstice Rain. Pilot Gathright perished due to failure to escape his mech, resulting in instant death alongside Pilot Strongback.
 
 # Reconstitution Overview:
 [DATA CORRUPT]—Pilot Guang Fu Gathright was declared deceased following the catastrophic meltdown of Strongback's mech, which resulted in a nuclear blast. Despite extensive damage to all local infrastructure and loss of all biological remains, Union records indicate that Brimstone’s reconstitution process was initiated successfully. However, no verifiable genetic or cognitive backups exist in the Union archives, and no timestamp can confirm the exact initiation of the process.
