@@ -35,6 +35,27 @@ Strongback should continue to be deployed in roles that require heavy lifting, d
 
 ---
 
+## OPERATION: SOLSTICE RAIN DEBRIEFING
+
+**Pilot**: Sleve McDichael (Strongback)
+
+**Service Number**: SN-0045-XC-1289
+
+**Status**: Reconstituted
+
+# Summary of Actions:
+Strongback exhibited steadfast loyalty and selflessness in the final moments of the operation. After attempting to rescue Brimstone from his damaged mech, he chose to stay by his side even as the catastrophic meltdown of his own mech loomed. Both pilots were killed in the resulting nuclear explosion.
+
+# Notable Events:
+- Took a key role in heavy support and reinforcement during critical moments in the mission.
+- Stayed with Brimstone in his final moments, choosing to share his fate rather than leave him behind.
+- Reconstituted with full cybernetic limb replacements due to the nature of his vaporization.
+
+# Performance Evaluation:
+Strongback’s actions highlight his unwavering loyalty and commitment to his squad. His sacrifice, while heroic, underscores the importance of careful planning in high-risk scenarios. His reconstitution has left him feeling something is missing, a psychological effect that should be monitored closely.
+
+---
+
 ## UNION PILOT RECONSTITUTION REPORT
 
 **Pilot ID**: Sleve McDichael
