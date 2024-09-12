@@ -37,6 +37,8 @@ However, Union Command advises continued oversight on Ironshell’s activities a
 # RECOMMENDATION:
 Maintain current status as a tactical asset. Monitor affiliations with external agents, and evaluate potential for promotion based on performance in ongoing operations.
 
+---
+
 ## UNION PILOT RECONSTITUTION REPORT
 Pilot ID: Matthäus Hetzenauer
 Callsign: Snipershell
