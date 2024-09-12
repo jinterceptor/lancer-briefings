@@ -32,3 +32,24 @@ Cleric is a highly competent Lancer with a strong foundation in engineering and 
 
 # Recommendation
 Cleric should continue to be deployed in missions where his technical expertise can be utilized to its fullest extent. His ability to maintain and upgrade equipment will be critical to Scythe Company’s long-term success. Given his potential for rapid improvement, he should be encouraged to take on more leadership roles in technical operations, while continuing to develop his combat instincts. His engineering background should be leveraged for field modifications and tactical innovations.
+
+---
+
+## OPERATION: SOLSTICE RAIN DEBRIEFING
+
+**Pilot**: Shi Qi (Cleric)
+
+**Service Number**: SN-0098-ZR-5630
+
+**Status**: Active
+
+# Summary of Actions:
+Cleric demonstrated a blend of technical prowess and leadership during Operation: Solstice Rain. He played a key role in facilitating communications and managing combat resources efficiently. Cleric's support efforts and engineering expertise were pivotal in ensuring that the squad remained operational during multiple engagements.
+
+# Notable Events:
+- Provided critical support and communications coordination during the jamming transmitter assault.
+- Played a key role in data extraction and recon analysis post-combat, discovering critical information on Col. Sorvan’s mech and associated Vestan technology.
+- One of the last remaining survivors, Cleric assisted with post-battle rescue operations and the difficult task of managing reconstitutions.
+
+# Performance Evaluation:
+Cleric has demonstrated exceptional ability as a combat engineer and battlefield technician. His understanding of mech systems and his ability to stay composed under stress made him an invaluable asset during the operation. Moving forward, Cleric’s knowledge of TARTARUS and his role in managing critical data extraction will be crucial.
