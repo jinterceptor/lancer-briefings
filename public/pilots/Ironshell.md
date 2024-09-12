@@ -43,22 +43,26 @@ Maintain current status as a tactical asset. Monitor affiliations with external 
 
 ## OPERATION: SOLSTICE RAIN DEBRIEFING
 
-**Pilot**: Josh Batrich (Mountaintop)
+**Pilot ID**: Matthäus Hetzenauer
 
-**Service Number**: SN-0034-KL-8763
+**Callsign**: Ironshell (formerly Snipershell)
+
+**Service Number**: [CLASSIFIED]
+
+**Affiliation**: Scythe Company
 
 **Status**: Reconstituted
 
-# Summary of Actions:
-Mountaintop showed resilience and adaptability under intense pressure. After his mech was destroyed, he fought on foot, eventually climbing onto Col. Sorvan’s mech and marking it for artillery strikes. His resourcefulness during this climactic encounter earned the squad a tactical advantage, even though it ultimately cost him his life.
+# Performance Summary:
+Ironshell's contribution to the mission was largely focused on long-range support and artillery bombardment. As a specialist in indirect fire, he consistently provided overwatch and neutralized enemy forces from a distance. His ability to balance precision with devastating firepower was essential during several key engagements.
 
 # Notable Events:
-- Engaged Col. Sorvan’s mech directly in hand-to-hand combat, marking the enemy for artillery fire.
-- Suffered critical injuries after being crushed beneath Sorvan’s mech, leading to his death and subsequent reconstitution.
-- Displays potential signs of cognitive difficulty due to the digital homunculus embedded in his clone body.
 
-# Performance Evaluation:
-Mountaintop’s bravery and willingness to take risks in combat were commendable. However, his decision to engage Sorvan directly may have contributed to his fatal outcome. His reconstitution has introduced psychological effects that warrant further observation, but his performance remains above standard expectations.
+- Provided vital artillery support during the rescue operation, helping to clear the area for the extraction of Captain Farris and Ambassador Bannerjee.
+- Scored a critical hit on Col. Sorvan’s mech, though this action directly led to Sorvan teleporting Ironshell’s mech to him, resulting in Ironshell’s death in a nuclear self-erasure blast.
+- Reconstituted following the mission, showing minor disfigurements due to complications during the cloning process.
+- Overall Performance:
+- Ironshell’s artillery skills were critical in both offensive and defensive phases of Operation: Solstice Rain. His final action against Sorvan showcased his precision under pressure, though his death was the result of an unavoidable situation. His reconstitution allows him to continue providing vital long-range fire support for the squad.
 
 ---
 
@@ -66,7 +70,7 @@ Mountaintop’s bravery and willingness to take risks in combat were commendable
 
 **Pilot ID**: Matthäus Hetzenauer
 
-**Callsign**: Snipershell
+**Callsign**: Ironshell
 
 **Date of Death**: [REDACTED]
 
