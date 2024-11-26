@@ -111,7 +111,7 @@ export default {
         {
           "slug": "003",
           "name": "A Day Of Firsts",
-          "status": "Start"
+          "status": "In Progress"
         },
       ],
       "pilots": [
