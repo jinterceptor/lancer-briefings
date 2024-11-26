@@ -171,8 +171,8 @@ export default {
         "gate": "Cascade",
         "ring": "Cascade Line",
         "headerTitle": "GENERAL MASSIVE SYSTEMS",
-        "headerSubtitle": "2817th Battalion",
-        "subheaderTitle": "Task Force Indigo",
+        "headerSubtitle": "ERR ~ SYSTEM LOG MISSING",
+        "subheaderTitle": "ERR - NULL HEADER",
         "subheaderSubtitle": "Scythe Company",
       },
       "options":{
