@@ -90,7 +90,7 @@ export default {
   data() {
     return {
       "mission_slug": "004",
-      "current_md": "In Progress",
+      "current_md": "start",
       "events": "",
       "missions": [
         {
@@ -116,7 +116,7 @@ export default {
          {
           "slug": "004",
           "name": "The Typhon",
-          "status": "In Progress"
+          "status": "start"
         },
       ],
       "pilots": [
