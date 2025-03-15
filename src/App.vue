@@ -145,7 +145,7 @@ export default {
         "planet": "Hercynia",
         "year": "5014u",
         "system": "Ardennes",
-        "gate": "Atlas",
+        "gate": "Atlas-Ouanoukrim/1.523ly",
         "ring": "Atlas Line",
         "headerTitle": "UNION",
         "headerSubtitle": "AUXILIARIES",
