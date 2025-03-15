@@ -89,33 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "004",
+      "mission_slug": "000",
       "current_md": "start",
       "events": "",
       "missions": [
         {
           "slug": "000",
-          "name": "Security Duty",
-          "status": "success"
-        },
-        {
-          "slug": "001",
-          "name": "The Drop",
-          "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "Daybreak",
-          "status": "success"
-        },
-        {
-          "slug": "003",
-          "name": "A Day Of Firsts",
-          "status": "success"
-        },
-         {
-          "slug": "004",
-          "name": "The Typhon",
+          "name": "EMERGENCY BROADCAST",
           "status": "start"
         },
       ],
@@ -170,11 +150,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Cressidium",
+        "planet": "Hercynia",
         "year": "5014u",
-        "system": "Corvus",
-        "gate": "Cascade",
-        "ring": "Cascade Line",
+        "system": "Ardennes",
+        "gate": "Atlas",
+        "ring": "Atlas Line",
         "headerTitle": "GENERAL MASSIVE SYSTEMS",
         "headerSubtitle": "ERR ~ SYSTEM LOG MISSING",
         "subheaderTitle": "ERR - NULL HEADER",
