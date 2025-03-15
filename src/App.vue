@@ -117,12 +117,12 @@ export default {
           "mech": "UNKNOWN"
         },
         {
-          "callsign": "Mountaintop",
-          "alias": "Josh Batrich",
+          "callsign": "UNKNOWN",
+          "alias": "UNKNOWN",
           "code": "SN-0034-KL-8763",
-          "corpro": "IPS-N",
-          "frame": "Drake",
-          "mech": "Defiant Onslaught"
+          "corpro": "UNKNOWN",
+          "frame": "UNKNOWN",
+          "mech": "UNKNOWN"
         },
         {
           "callsign": "UNKNOWN",
