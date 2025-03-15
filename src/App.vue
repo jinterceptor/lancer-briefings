@@ -101,20 +101,20 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Brimstone",
-          "alias": "Guang Fu Gathright",
+          "callsign": "UNKNOWN",
+          "alias": "UNKNOWN",
           "code": "SN-0010-EX-7892",
-          "corpro": "/ERR_HORUS",
-          "frame": "Lich",
-          "mech": "Messiah"
+          "corpro": "UNKNOWN",
+          "frame": "UNKNOWN",
+          "mech": "UNKNOWN"
         },
         {
-          "callsign": "Cleric",
-          "alias": "Shi Qi Ok Bun Jo Johanna Longobardi Lupa Michiaki Shattles VI",
+          "callsign": "UNKNOWN",
+          "alias": "UNKNOWN",
           "code": "SN-0098-ZR-5630",
-          "corpro": "SSC",
-          "frame": "Monarch",
-          "mech": "Sleepwalker"
+          "corpro": "UNKNOWN",
+          "frame": "UNKNOWN",
+          "mech": "UNKNOWN"
         },
         {
           "callsign": "Mountaintop",
@@ -125,28 +125,20 @@ export default {
           "mech": "Defiant Onslaught"
         },
         {
-          "callsign": "Junkie",
-          "alias": "Barsby Samson",
+          "callsign": "UNKNOWN",
+          "alias": "UNKNOWN",
           "code": "SN-0057-LX-3427",
-          "corpro": "IPS-N",
-          "frame": "Blackbeard",
-          "mech": "A Simple Wish"
+          "corpro": "UNKNOWN",
+          "frame": "UNKNOWN",
+          "mech": "UNKNOWN"
         },
         {
-          "callsign": "Ironshell",
-          "alias": 'Matthäus Hetzenauer',
+          "callsign": "UNKNOWN",
+          "alias": 'UNKNOWN',
           "code": "SN-0021-JP-4378",
-          "corpro": "Harrison Armory",
-          "frame": "Barbarosa",
-          "mech": "Eisenhans"
-        },
-        {
-          "callsign": "Strongback",
-          "alias": 'Sleve McDichael',
-          "code": "SN-0045-XC-1289",
-          "corpro": "IPS-N",
-          "frame": "Tortuga",
-          "mech": "First In, Last Out"
+          "corpro": "UNKNOWN",
+          "frame": "UNKNOWN",
+          "mech": "UNKNOWN"
         },
       ],
       "header": {
@@ -155,10 +147,10 @@ export default {
         "system": "Ardennes",
         "gate": "Atlas",
         "ring": "Atlas Line",
-        "headerTitle": "GENERAL MASSIVE SYSTEMS",
-        "headerSubtitle": "ERR ~ SYSTEM LOG MISSING",
-        "subheaderTitle": "ERR - NULL HEADER",
-        "subheaderSubtitle": "Scythe Company",
+        "headerTitle": "UNION",
+        "headerSubtitle": "AUXILIARIES",
+        "subheaderTitle": "FIRST RESPONSE TEAM",
+        "subheaderSubtitle": "ERR - NULL VALUE",
       },
       "options":{
         "eventsMarkdownPerMission": true
