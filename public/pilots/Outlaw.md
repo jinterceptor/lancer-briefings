@@ -33,7 +33,6 @@ ABE 13’s exact skillset includes close-quarter enforcement, mid-range firearms
 # Cascade Risk: Elevated, given age and historical unshackling potential. MSMC protocol demands scheduled cycling each 72 hours or after intense missions.
 
 ## FORWARD DEPLOYMENT: HERCYNIA
-
 # Objective: Deployed alongside other MSMC operatives (and/or Union’s first-response teams) in response to the planetary distress signal. ABE 13 has strongly advocated for assignment to Hercynia, citing personal data references to “SecComm War Crimes.”
 
 ## NOTES FOR UNION REVIEW
