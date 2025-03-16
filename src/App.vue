@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "UNKNOWN",
-          "alias": "UNKNOWN",
+          "callsign": "Psycho",
+          "alias": "Winona Friesz",
           "code": "SN-0010-EX-7892",
-          "corpro": "UNKNOWN",
-          "frame": "UNKNOWN",
-          "mech": "UNKNOWN"
+          "corpro": "GMS",
+          "frame": "EVEREST",
+          "mech": "Lucky You"
         },
         {
           "callsign": "Outlaw",
