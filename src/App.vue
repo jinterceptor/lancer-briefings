@@ -109,12 +109,12 @@ export default {
           "mech": "UNKNOWN"
         },
         {
-          "callsign": "UNKNOWN",
-          "alias": "UNKNOWN",
+          "callsign": "Outlaw",
+          "alias": "ABE - 13",
           "code": "SN-0098-ZR-5630",
-          "corpro": "UNKNOWN",
-          "frame": "UNKNOWN",
-          "mech": "UNKNOWN"
+          "corpro": "MIRRORSMOKE MERCENARY COMPANY",
+          "frame": "EVEREST",
+          "mech": "Performance Review"
         },
         {
           "callsign": "UNKNOWN",
