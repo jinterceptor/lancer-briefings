@@ -101,10 +101,10 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Psycho",
+          "callsign": "Smokey",
           "alias": "Winona Friesz",
           "code": "SN-0010-EX-7892",
-          "corpro": "GMS",
+          "corpro": "UNION AUXILIARY",
           "frame": "EVEREST",
           "mech": "Lucky You"
         },
@@ -117,12 +117,12 @@ export default {
           "mech": "Performance Review"
         },
         {
-          "callsign": "UNKNOWN",
-          "alias": "UNKNOWN",
+          "callsign": "Ferryman",
+          "alias": "Claire Kilkreve",
           "code": "SN-0034-KL-8763",
-          "corpro": "UNKNOWN",
-          "frame": "UNKNOWN",
-          "mech": "UNKNOWN"
+          "corpro": "LANDMARK COLONIAL CRT",
+          "frame": "EVEREST",
+          "mech": "perfect competition"
         },
         {
           "callsign": "UNKNOWN",
