@@ -1,15 +1,20 @@
 ## [UNION PERSONNEL & MISSION LOG | PLACEHOLDER ENTRY]
-# SUBJECT: [PILOT DATA PENDING]
-# DESIGNATION: Undisclosed / Incomplete Records
-# STATUS: Awaiting Full Dossier Submission
 
-# NOTICE: The following personnel file is incomplete. Additional background, operational history, and relevant certifications have not been furnished as of this writing. Pending the receipt of all required details, this placeholder shall remain the official record on file for Union reference.
+SUBJECT: [PILOT DATA PENDING]
+
+DESIGNATION: Undisclosed / Incomplete Records
+
+STATUS: Awaiting Full Dossier Submission
+
+NOTICE: The following personnel file is incomplete. Additional background, operational history, and relevant certifications have not been furnished as of this writing. Pending the receipt of all required details, this placeholder shall remain the official record on file for Union reference.
 
 ## PROFILE SYNOPSIS
 
-# Name/Alias: [Data Not Provided]
-# Affiliation: [Unknown or Not Verified]
-# Role/Specialization: [Unverified – Additional Data Needed]
+Name/Alias: [Data Not Provided]
+
+Affiliation: [Unknown or Not Verified]
+
+Role/Specialization: [Unverified – Additional Data Needed]
 
 ## OPERATIONAL REMARKS
 
