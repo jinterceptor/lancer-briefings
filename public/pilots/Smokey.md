@@ -1,28 +1,61 @@
-## [UNION PERSONNEL & MISSION LOG | PLACEHOLDER ENTRY]
+## [UNION ADMINISTRATIVE DEPARTMENT | PERSONNEL DOSSIER]
 
-SUBJECT: [PILOT DATA PENDING]
+SUBJECT: Winona Friesz
 
-DESIGNATION: Undisclosed / Incomplete Records
+CALLSIGN: SMOKEY
 
-STATUS: Awaiting Full Dossier Submission
+AGE: Mid-50s
 
-NOTICE: The following personnel file is incomplete. Additional background, operational history, and relevant certifications have not been furnished as of this writing. Pending the receipt of all required details, this placeholder shall remain the official record on file for Union reference.
+AFFILIATION: Union Lancer Pilot
 
-## PROFILE SYNOPSIS
+SPECIALIZATION: Harrison Armory Cybernetic Augmentation
 
-Name/Alias: [Data Not Provided]
+ASSIGNMENT: Acting Squad Leader, Hercynia Rapid-Response
 
-Affiliation: [Unknown or Not Verified]
+## BACKGROUND & SERVICE RECORD
 
-Role/Specialization: [Unverified – Additional Data Needed]
+Origin: Born on Varkana, an Outer Systems world that initially rejected Union influence before its leadership chose peaceful annexation.
 
-## OPERATIONAL REMARKS
+Early Life: Grew up in a self-sufficient, fiercely independent environment. Influenced by Varkana’s cultural narrative of resisting outside control. Joined the Free Varkana Movement, a militant faction opposing Union’s integration.
 
-This subject’s final assignment, skillset, and relevant fields of expertise are currently unknown.
-Authorization for field deployment, if any, will require official review once new data is submitted.
-ADMISTRATIVE NOTES
+Catastrophic Incident: Participated in a bombing intended to target Union-aligned facilities, resulting in numerous civilian deaths. Severely injured in the explosion: extensive trauma, limb loss, and near-fatal burns. Rescued and reconstructed under Union’s medical oversight, with Harrison Armory providing advanced cybernetics.
 
-Any updates or supplemental background information must be provided to the Union Administrative Department for immediate record completion.
-Until validated, this record holds provisional status and does not grant access to secured channels or mission-critical Intel.
+Redemption & Service: Profoundly impacted by Union’s mercy. Renounced extremist ideology. Spent 30+ years serving Union as a Lancer, demonstrating notable loyalty and commitment to Union mandates despite a checkered past.
 
-# [END FILE | UNION ARCHIVE – UPDATE PENDING]
+## PSYCHOLOGICAL/ETHICAL PROFILE
+
+Personality: Often chipper, upbeat, using humor and casual banter to cope with guilt and trauma.
+
+Inner Conflict: Wrestles with the memory of his actions on Varkana. Driven by atonement and an unwavering desire to prove his dedication to Union’s cause.
+
+Family & Personal Ties: Married to Dr. Helena Orlan-Friesz (Union field surgeon instrumental in his recovery). Father to Elias “Eli” Friesz, a perceptive teenager who questions authority and challenges Winona’s conviction in Union.
+
+## CYBERNETIC AUGMENTATIONS
+
+Harrison Armory Reconstruction: Extensive prosthetics, integrated with advanced neural and musculoskeletal interface systems. Allows above-average mobility, reflexes, and resilience. Carries psychological weight—Winona’s modifications are a tangible reminder of both Union’s mercy and his former Free Varkana actions.
+
+## CURRENT ROLE & RESPONSIBILITIES
+
+Squad Leader, Hercynia Rapid-Response
+
+Appointed by Union to coordinate joint-operations on Hercynia. Responsible for managing auxiliary Union assets, corporate contractors, and mercenary teams. Expected to uphold Union’s Rules of Engagement, ensuring minimal civilian harm and fair cooperation with local authorities.
+
+## Operational Directives:
+
+Stabilize the distress call area (Evergreen colony). Maintain chain of command under Union oversight, guiding non-Union operators (e.g., Landmark Colonial, Mirrorsmoke Mercenaries). Provide diplomatic and combat leadership while balancing the complexities of Hercynia’s situation.
+
+## Performance Notes:
+
+Exhibits exemplary field discipline post-recovery. Strong empathic drive can lead to overexertion or personal risk if he feels responsible for others’ safety. Demonstrates a highly cooperative approach—potentially effective in bridging tensions between factions.
+
+## RELEVANT CAUTIONS
+
+Emotional Stress: Subject’s past trauma may resurface under intense conflict, particularly when confronting insurgent actions or civilian risk.
+
+Personal Ideological Sensitivity: Deep loyalty to Union may override caution if he fears repeating old mistakes; watch for signs of self-sacrificial tendencies.
+
+## AUTHORIZED BY:
+Colonel R. Ling-Farrow
+Union Administrative Department – Atlas Line Command
+
+#[END DOSSIER] 
