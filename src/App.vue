@@ -109,12 +109,12 @@ export default {
           "mech": "Lucky You"
         },
         {
-          "callsign": "Outlaw",
-          "alias": "ABE - 13",
-          "code": "SN-0098-ZR-5630",
-          "corpro": "MIRRORSMOKE MERCENARY COMPANY",
-          "frame": "EVEREST",
-          "mech": "Performance Review"
+          "callsign": "Vanisher",
+          "alias": "Don 'Donald' Herscher",
+          "code": "SN-0057-LX-3427",
+          "corpro": "UNION ECONOMIC BUREAU",
+          "frame": "SAGMARTHA",
+          "mech": "Complaint Department"
         },
         {
           "callsign": "Ferryman",
@@ -125,27 +125,27 @@ export default {
           "mech": "perfect competition"
         },
         {
-          "callsign": "Vanisher",
-          "alias": "Don 'Donald' Herscher",
-          "code": "SN-0057-LX-3427",
-          "corpro": "UNION ECONOMIC BUREAU",
-          "frame": "SAGMARTHA",
-          "mech": "Complaint Department"
+          "callsign": "Outlaw",
+          "alias": "ABE - 13",
+          "code": "SN-0098-ZR-5630",
+          "corpro": "MIRRORSMOKE MERCENARY COMPANY",
+          "frame": "EVEREST",
+          "mech": "Performance Review"
         },
         {
-          "callsign": "UNKNOWN",
-          "alias": 'UNKNOWN',
+          "callsign": "Vet",
+          "alias": '[REDACTED]',
           "code": "SN-0021-JP-4378",
-          "corpro": "UNKNOWN",
-          "frame": "UNKNOWN",
+          "corpro": "MIRRORSMOKE MERCENARY COMPANY",
+          "frame": "EVEREST",
           "mech": "UNKNOWN"
         },
         {
-          "callsign": "UNKNOWN",
-          "alias": 'UNKNOWN',
+          "callsign": "Huntsman",
+          "alias": 'Jonas Kessler',
           "code": "SN-0049-KQ-7298",
-          "corpro": "UNKNOWN",
-          "frame": "UNKNOWN",
+          "corpro": "MIRRORSMOKE MERCENARY COMPANY",
+          "frame": "EVEREST",
           "mech": "UNKNOWN"
         },
       ],
