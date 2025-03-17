@@ -20,4 +20,4 @@ ADMISTRATIVE NOTES
 Any updates or supplemental background information must be provided to the Union Administrative Department for immediate record completion.
 Until validated, this record holds provisional status and does not grant access to secured channels or mission-critical Intel.
 
-## [END FILE | UNION ARCHIVE – UPDATE PENDING]
+# [END FILE | UNION ARCHIVE – UPDATE PENDING]
