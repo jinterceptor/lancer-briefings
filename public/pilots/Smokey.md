@@ -58,4 +58,4 @@ Personal Ideological Sensitivity: Deep loyalty to Union may override caution if 
 Colonel R. Ling-Farrow
 Union Administrative Department – Atlas Line Command
 
-#[END DOSSIER] 
+# [END DOSSIER] 
