@@ -6,7 +6,7 @@ DESIGNATION: Undisclosed / Incomplete Records
 
 STATUS: Awaiting Full Dossier Submission
 
-# NOTICE: The following personnel file is incomplete. Additional background, operational history, and relevant certifications have not been furnished as of this writing. Pending the receipt of all required details, this placeholder shall remain the official record on file for Union reference.
+NOTICE: The following personnel file is incomplete. Additional background, operational history, and relevant certifications have not been furnished as of this writing. Pending the receipt of all required details, this placeholder shall remain the official record on file for Union reference.
 
 ## PROFILE SYNOPSIS
 
