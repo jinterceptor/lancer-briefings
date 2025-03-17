@@ -125,12 +125,12 @@ export default {
           "mech": "perfect competition"
         },
         {
-          "callsign": "UNKNOWN",
-          "alias": "UNKNOWN",
+          "callsign": "Vanisher",
+          "alias": "Don 'Donald' Herscher",
           "code": "SN-0057-LX-3427",
-          "corpro": "UNKNOWN",
-          "frame": "UNKNOWN",
-          "mech": "UNKNOWN"
+          "corpro": "UNION ECONOMIC BUREAU",
+          "frame": "EVEREST",
+          "mech": "Complaint Department"
         },
         {
           "callsign": "UNKNOWN",
