@@ -140,6 +140,14 @@ export default {
           "frame": "UNKNOWN",
           "mech": "UNKNOWN"
         },
+        {
+          "callsign": "UNKNOWN",
+          "alias": 'UNKNOWN',
+          "code": "SN-0049-KQ-7298",
+          "corpro": "UNKNOWN",
+          "frame": "UNKNOWN",
+          "mech": "UNKNOWN"
+        },
       ],
       "header": {
         "planet": "Hercynia",
