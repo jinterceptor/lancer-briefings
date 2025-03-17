@@ -146,7 +146,7 @@ export default {
           "code": "SN-0049-KQ-7298",
           "corpro": "MIRRORSMOKE MERCENARY COMPANY",
           "frame": "EVEREST",
-          "mech": "UNKNOWN"
+          "mech": "Erlkönig"
         },
       ],
       "header": {
