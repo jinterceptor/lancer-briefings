@@ -138,7 +138,7 @@ export default {
           "code": "SN-0021-JP-4378",
           "corpro": "MIRRORSMOKE MERCENARY COMPANY",
           "frame": "EVEREST",
-          "mech": "UNKNOWN"
+          "mech": "Fire And Forget"
         },
         {
           "callsign": "Huntsman",
