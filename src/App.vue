@@ -158,7 +158,7 @@ export default {
         "headerTitle": "UNION",
         "headerSubtitle": "AUXILIARIES",
         "subheaderTitle": "FIRST RESPONSE TEAM",
-        "subheaderSubtitle": "ERR - NULL VALUE",
+        "subheaderSubtitle": "CINDER SQUAD",
       },
       "options":{
         "eventsMarkdownPerMission": true
