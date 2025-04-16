@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "start",
       "events": "",
       "missions": [
@@ -102,6 +102,11 @@ export default {
           "slug": "001",
           "name": "BUG HUNT",
           "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "VIGILANT GAZE",
+          "status": "start"
         },
       ],
       "pilots": [
