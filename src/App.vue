@@ -115,8 +115,8 @@ export default {
           "alias": "Winona Friesz",
           "code": "SN-0010-EX-7892",
           "corpro": "UNION AUXILIARY",
-          "frame": "EVEREST",
-          "mech": "Lucky You"
+          "frame": "GENGHIS",
+          "mech": "Again In Hell"
         },
         {
           "callsign": "Vanisher",
@@ -131,32 +131,32 @@ export default {
           "alias": "Claire Kilkreve",
           "code": "SN-0034-KL-8763",
           "corpro": "LANDMARK COLONIAL CRT",
-          "frame": "EVEREST",
-          "mech": "perfect competition"
+          "frame": "OLEANDER",
+          "mech": "Pale Rider"
         },
         {
           "callsign": "Outlaw",
           "alias": "ABE - 13",
           "code": "SN-0098-ZR-5630",
           "corpro": "MIRRORSMOKE MERCENARY COMPANY",
-          "frame": "EVEREST",
-          "mech": "Performance Review"
+          "frame": "STORTEBEKER",
+          "mech": "Law Of The Land"
         },
         {
           "callsign": "Vet",
           "alias": '[REDACTED]',
           "code": "SN-0021-JP-4378",
           "corpro": "MIRRORSMOKE MERCENARY COMPANY",
-          "frame": "EVEREST",
-          "mech": "Fire And Forget"
+          "frame": "GILGAMESH",
+          "mech": "Life's Sentence"
         },
         {
           "callsign": "Huntsman",
           "alias": 'Jonas Kessler',
           "code": "SN-0049-KQ-7298",
           "corpro": "MIRRORSMOKE MERCENARY COMPANY",
-          "frame": "EVEREST",
-          "mech": "Erlkönig"
+          "frame": "MOURNING CLOAK",
+          "mech": "FeldGheist"
         },
       ],
       "header": {
