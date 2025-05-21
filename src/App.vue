@@ -123,8 +123,8 @@ export default {
           "alias": "Don 'Donald' Herscher",
           "code": "SN-0057-LX-3427",
           "corpro": "UNION ECONOMIC BUREAU",
-          "frame": "SAGMARTHA",
-          "mech": "Complaint Department"
+          "frame": "SWALLOWTAIL",
+          "mech": "The Seer"
         },
         {
           "callsign": "Ferryman",
